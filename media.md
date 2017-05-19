@@ -20,6 +20,19 @@ Vector files are files that can be scaled to a large without loss of quality. Us
 
 See the [vector directory](./assets/vector) in _assets/vector/_ for all vector files.
 
+#### EPS (Encapsulated PostScript)
+
 * Cross Logo: [nhrc_cross.eps](./assets/vector/nhrc_cross.eps)
-* Full Text, "North Holland Reformed Church"
-* Abbreviated Text, "NHRC"
+* NHRC Website Text: [nhrc_website.eps](./assets/vector/nhrc_website.eps)
+* Full Text, "North Holland Reformed Church": [nhrc_full_text.eps](./assets/vector/nhrc_full_text.eps)
+* Abbreviated Text, "NHRC": [nhrc_abbreviated_text.eps](./assets/vector/nhrc_abbreviated_text.eps)
+
+#### PDF (Portable Document Format)
+
+* Cross Logo: [nhrc_cross.pdf](./assets/vector/nhrc_cross.pdf)
+* NHRC Website with Cross: [nhrc_website_with_cross.pdf](./assets/vector/nhrc_website_with_cross.pdf)
+
+#### AI (Adobe Illustrator)
+
+* Cross Logo: [nhrc_cross.ai](./assets/vector/nhrc_cross.ai)
+* NHRC Website with Cross: [nhrc_website_with_cross.ai](./assets/vector/nhrc_website_with_cross.ai)
