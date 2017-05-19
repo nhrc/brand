@@ -2,9 +2,7 @@
 
 ## Identity Guide
 
-![](./identity/identity_cross.png "Cross Logo")
-
-April 2017
+May 2017
 
 ### Table of Contents
 
@@ -66,19 +64,19 @@ The secondary color palette is a selection of supporting colors.
 
 #### Seafoam
 
-![](./identity/identity_color_seafoam.png "Color Seafoam")
-
 * **CMYK** C36 / M0 / Y15 / K31
 * **RGB** R118 / G162 / B165
 * **HEX** #76A2A5
 
-#### Yellow
+![](./identity/identity_color_seafoam.png "Color Seafoam")
 
-![](./identity/identity_color_yellow.png "Color Yellow")
+#### Yellow
 
 * **CMYK** C2 / M6 / Y79 / K0
 * **RGB** R255 / G229 / B85
 * **HEX** #FFE555
+
+![](./identity/identity_color_yellow.png "Color Yellow")
 
 ## Clear Space & Sizing
 
