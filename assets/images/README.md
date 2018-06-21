@@ -1,8 +1,6 @@
-# Vector Files
+# Web Files
 
-Vector graphics are files that can be scaled to any size without losing quality. Rather than being built by pixels, vectors contain mathematical lines and points, allowing for smooth curves and sharp lines.
-
-These types of graphics good for creating large signs or banners.
+These files are created using pixels. They are a smaller file size and are sufficient for web use.
 
 ## Full Text
 
