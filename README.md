@@ -22,6 +22,8 @@ By being intentional about our branding and marketing, we can ensure a stronger 
 
 This is a collection of information to help guide friends of the church in keeping with our brand and marketing goals.
 
+* [Assets](./assets) - _various versions of our logo and graphics_
+
 ### Social Media
 
 Find us in a few places!
